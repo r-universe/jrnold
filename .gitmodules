@@ -8,3 +8,8 @@
 	url = https://github.com/jrnold/ggthemes
 	shallow = true
 	registered = true
+[submodule "smss"]
+	path = smss
+	url = https://github.com/cran/smss
+	shallow = true
+	registered = true
