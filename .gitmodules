@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ggthemes"]
 	path = ggthemes
 	url = https://github.com/jrnold/ggthemes
-	shallow = true
-	registered = true
 [submodule "smss"]
 	path = smss
 	url = https://github.com/cran/smss
-	shallow = true
-	registered = true
